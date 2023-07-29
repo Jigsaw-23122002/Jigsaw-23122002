@@ -5,9 +5,9 @@ I am Harsh Nag,I am currently pursuing my Bachelors in computer Engineering from
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jigsaw-23122002" alt="Jigsaw-23122002" /> </p>
 
 
-- 🌱 I’m currently learning ** Android Development **
+- 🌱 I’m currently learning ** Web3 **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🥅 2022 Goals: To be profficient in Android Development :|
+- 🥅 2022 Goals: To be proficient in Web3 :|
 
 <p align="center">
     <a href="https://github.com/Jigsaw-23122002/github-readme-streak-stats">
